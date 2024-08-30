@@ -74,6 +74,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 3. **Conclusion:**
 
 ### Product
+![](store.jpeg)
 
 1. What is the most common payment method?
 2. What is the most selling product line?
