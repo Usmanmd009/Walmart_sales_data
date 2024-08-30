@@ -90,6 +90,8 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 ### Sales
 
+![](sales.jpeg)
+
 1. Number of sales made in each time of the day per weekday
 2. Which of the customer types brings the most revenue?
 3. Which city has the largest tax percent/ VAT (**Value Added Tax**)?
