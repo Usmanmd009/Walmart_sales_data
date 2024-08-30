@@ -99,6 +99,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 
 ### Customer
+![](customers.jpeg)
 
 1. How many unique payment methods does the data have?
 2. What is the most common customer type?
