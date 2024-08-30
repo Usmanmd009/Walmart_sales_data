@@ -1,5 +1,5 @@
 ### Walmart_sales_data
-
+![](walmart.jpeg)
 ### About
 
 This project delves into the analysis of Walmart Sales data to uncover insights on:
@@ -41,15 +41,15 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 ### Analysis List
 
-1. Product Analysis
+. Product Analysis
 
 > Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
-2. Sales Analysis
+. Sales Analysis
 
 > This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
 
-3. Customer Analysis
+. Customer Analysis
 
 > This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
